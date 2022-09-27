@@ -2,3 +2,4 @@ kecske
 kecske
 alma
 eper
+ananasz
