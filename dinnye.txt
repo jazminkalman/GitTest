@@ -7,3 +7,4 @@ drwxr-xr-x 1 Jázmin 197121  0 Sep 26 22:28 .git/
 -rw-r--r-- 1 Jázmin 197121  0 Sep 27 10:46 dinnye.txt
 -rw-r--r-- 1 Jázmin 197121 14 Sep 27 10:46 korte.txt
 kecske
+hii
