@@ -1,14 +1,2 @@
-a
-b
-c
-d
-e
-f
-g
-h
-j
-kl
-l
-m
-o
-p
+apple
+big apple
